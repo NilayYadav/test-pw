@@ -1,0 +1,17 @@
+{
+  "name": "pw",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright": "^1.44.0",
+    "playwright-core": "^1.44.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
